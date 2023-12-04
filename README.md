@@ -1,1 +1,2 @@
 # Capstone-Parking-Assist
+In this project, I will be using a variety of different components to complete my ultimate goal of creating a parking assist for garages. The initial idea of the project is to use a sonar sensor connected to an arduino and measure distance with it. That idea has escalated to using that base and adding an RGB strip, buzzer, and a raspberry pi with a camera attached for live feed. This project is for my capstone class 2024.
